@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clozerhayd&layout=compact)
 
 <a href="https://github.com/clozerhayd"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=clozerhayd&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-
+<a href="https://github.com/clozerhayd"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clozerhayd&layout=compact&theme=nord&hide_border=true" /></a> 
 ## Hi there 👋
 
 **clozerhayd/clozerhayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
